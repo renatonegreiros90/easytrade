@@ -45,7 +45,7 @@ spec:
             - name: WORK_RATE
               value: "900"
             - name: ROOKOUT_TOKEN
-              value: "VALUETOREPLACEWITHKEY"
+              value: "b1789f6c0d944712904d4b81ba982d9ffdf540fa4fde42eda44698e1db906f0e"
             - name: JAVA_TOOL_OPTIONS
               value: "-javaagent:/opt/devobs/rookout.jar"
             - name: MSSQL_CONNECTIONSTRING
